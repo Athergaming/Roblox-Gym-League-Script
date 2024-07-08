@@ -3,7 +3,7 @@ Roblox Gym League Script, it has basically every feature, currently only support
 
 # Load Script:
 ```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Athergaming/Roblox-Gym-League-Script/main/AtherHub%20Gym%20League%20V1.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Athergaming/Roblox-Gym-League-Script/main/AtherHub%20Gym%20League%20V1_5.lua"))()
 ```
 
 > optionally, you can copy and paste the entire raw file, but this is easier, idc what you do with it.
