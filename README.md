@@ -7,12 +7,27 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Athergaming/Roblox-Gy
 ```
 
 > optionally, you can copy and paste the entire raw file, but this is easier, idc what you do with it.
-# Errors:
+
+# Current Version: V1.5:
+| Feature | Progress |
+| --- | --- |
+| `Gym Compatibility` | Currently first 3 Gyms |
+| `Auto Train` | Can Auto Train all machines |
+| `Auto 100%` | Can Auto Train all muscles to 100% |
+| `Auto Next Alter` | Can Auto Buy and use Next Alter |
+| `Auto Start Quest` | Can Auto Start Quests in the gym |
+| `Auto Claim Quest` | Can Auto Claim Quests |
+| `Auto Unlock Next Gym` | Auto Unlocks next gym |
+| `Auto Tp Next Gym` | currently not updating, since most exec are patched rn |
+| `Tp to Machine` | Works, can tp and auto get on machine |
+
+# Bugs:
 The script has been tested by me a lot, but I am a one man team so I can always miss some bugs, feel free to dm me with the contact below.
 Current bugs being fixed:
 
-``1. After 100% train turned on, auto train doesn't train the selected equipment(current fix, reselect the equioment). Progress: Fixed next update``
-
+| Bug | Progress | Current Fix |
+| --- | --- | --- |
+| `After 100% train turned on, auto train doesn't train the selected equipment` | Fixed Next Update | Reselect the Equipment |
 
 # Contact or Report Bugs
 ``Discord: goatofall``
