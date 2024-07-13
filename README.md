@@ -15,6 +15,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Athergaming/Roblox-Gy
 | `Auto Train` | Can Auto Train all machines |
 | `Auto 100%` | Can Auto Train all muscles to 100% |
 | `Auto Next Alter` | Can Auto Buy and use Next Alter |
+| `Auto Competition` | Auto Competes in Competition and auto plays |
 | `Auto Start Quest` | Can Auto Start Quests in the gym |
 | `Auto Claim Quest` | Can Auto Claim Quests |
 | `Auto Unlock Next Gym` | Auto Unlocks next gym |
