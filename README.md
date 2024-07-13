@@ -31,5 +31,7 @@ Current bugs being fixed:
 | `After 100% train turned on, auto train doesn't train the selected equipment` | Fixed Next Update | Reselect the Equipment |
 
 # Contact or Report Bugs
+If your a new scripter and need help, dm me and ask me questions or problems your having, I will try to help as much as I can, but remember I am not always available so I can't promise an instant reply.
+
 ``Discord: goatofall``
 > dm me if you have issues, or bugs
