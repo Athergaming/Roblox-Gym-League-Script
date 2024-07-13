@@ -7,6 +7,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Athergaming/Roblox-Gy
 ```
 
 > optionally, you can copy and paste the entire raw file, but this is easier, idc what you do with it.
+# Errors:
+The script has been tested by me a lot, but I am a one man team so I can always miss some bugs, feel free to dm me with the contact below.
+Current bugs being fixed:
+``1. Auto train doesn't train the selected equipment, after 100% was turned on. Progress: Fixed next update``
+
 
 # Contact or Report Bugs
 ``Discord: goatofall``
