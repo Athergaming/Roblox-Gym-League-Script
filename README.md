@@ -11,7 +11,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Athergaming/Roblox-Gy
 The script has been tested by me a lot, but I am a one man team so I can always miss some bugs, feel free to dm me with the contact below.
 Current bugs being fixed:
 
-``1. Auto train doesn't train the selected equipment, after 100% was turned on. Progress: Fixed next update``
+``1. After 100% train turned on, auto train doesn't train the selected equipment(current fix, reselect the equioment). Progress: Fixed next update``
 
 
 # Contact or Report Bugs
