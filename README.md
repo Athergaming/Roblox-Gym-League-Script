@@ -21,6 +21,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Athergaming/Roblox-Gy
 | `Auto Unlock Next Gym` | Auto Unlocks next gym |
 | `Auto Tp Next Gym` | currently not updating, since most exec are patched rn |
 | `Tp to Machine` | Works, can tp and auto get on machine |
+| `Auto Buy PowerUps` | Work in progress |
+| `Auto Use PowerUps` | Work in progress |
 
 # Bugs:
 The script has been tested by me a lot, but I am a one man team so I can always miss some bugs, feel free to dm me with the contact below.
