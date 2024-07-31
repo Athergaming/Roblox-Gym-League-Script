@@ -1,5 +1,5 @@
 # Roblox-Gym-League-Script
-Roblox Gym League Script, it has basically every feature, currently only supports the first 3 gyms (Need to add other gyms), has auto roll aura, auto 100%, tp to machine, etc. 
+Roblox Gym League Script, it has basically every feature, currently only supports the first 4 gyms (Need to add other gyms), has auto roll aura, auto 100%, tp to machine, etc. 
 
 # Load Script:
 ```
