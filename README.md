@@ -1,5 +1,5 @@
 # Roblox-Gym-League-Script
-Roblox Gym League Script, it has basically every feature, currently only supports the first 4 gyms (Need to add other gyms), has auto roll aura, auto 100%, tp to machine, etc. 
+Roblox Gym League Script, it has basically every feature, now it supports ALL gyms ( QUESTS are only supported until the 4th gym currently), has auto roll aura, auto 100%, tp to machine, etc. 
 
 # Load Script:
 ```
@@ -11,7 +11,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Athergaming/Roblox-Gy
 # Current Version: V1.5:
 | Feature | Progress |
 | --- | --- |
-| `Gym Compatibility` | Currently first 3 Gyms |
+| `Gym Compatibility` | NEW Update, all gyms supported! |
 | `Auto Train` | Can Auto Train all machines |
 | `Auto 100%` | Can Auto Train all muscles to 100% |
 | `Auto Next Alter` | Can Auto Buy and use Next Alter |
